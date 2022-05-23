@@ -18,3 +18,6 @@ video {
 .copyright {
   background-color: darkgoldenrod;
 }
+ul {
+  justify-content: space-evenly;
+}

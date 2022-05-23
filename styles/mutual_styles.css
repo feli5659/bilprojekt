@@ -14,3 +14,7 @@ p {
 video {
   max-width: 100%;
 }
+
+.copyright {
+  background-color: darkgoldenrod;
+}
